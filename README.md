@@ -1,1 +1,1 @@
-# searching_binary_tree
+# a project from theOdinproject.com
